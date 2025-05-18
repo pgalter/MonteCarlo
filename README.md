@@ -34,6 +34,7 @@ paths towards the goal.
 
 # My results: 
 ![image](https://github.com/user-attachments/assets/4ff354ea-7821-479b-85c2-88f093d2e564)
+
 The cumulative reward of the pure greedy version shows a variant and somewhat upward
 trend over the 4000 episodes, indicating that the algorithm gradually learns better policies.
 This aligns with our expectations, seen as Monte Carlo methods require many episodes to
